@@ -1,0 +1,106 @@
+body
+{
+
+	background: url('fond.jpg');
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	color: white;
+	background-attachment:fixed;
+	margin: 100 px;
+	vertical-align: bottom;
+	padding: 100 px;
+}
+
+div img
+{
+	width:700px;
+	padding: 20px;
+}
+
+.titre 
+{
+	text-align: center;
+}
+
+.navigation
+{
+	text-align: center;
+}
+
+#bloc_page
+{
+		width: 900px;
+		height: 500px;
+		margin: auto;
+		background: #000;
+		padding-left: 65px;
+		padding-right: 65px;
+		padding-top: 50px;
+}
+
+
+
+nav
+{
+	display: inline-block;
+	padding: 4px;
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	
+
+	
+}
+
+nav ul
+{
+    list-style-type: none;
+	padding: 0px;
+	border: 1px solid #f35f5f;
+	height: 70px;
+}
+
+nav li
+{
+    display: inline-block;
+	padding: 20px;
+	text-align: center;
+	margin-bottom:100px;
+}
+
+nav a
+{
+    font-size: 1.5em;
+    color: #f35f5f;
+    padding-bottom: 3px;
+    text-decoration: none;
+	/* border-bottom: 2px solid #f35f5f; */
+	
+}
+
+nav a:hover
+{
+    color: #e35f5f;
+	border-bottom: 3px solid #e35f5f;
+}
+
+div a  
+{
+	color: #f03f30;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+div a:hover
+{
+	color: #e35f5f;
+}
+
+h1
+{
+	font-size: 1.5em;
+}
+
+h2
+{
+	font-size: 1.4em;
+}

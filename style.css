@@ -1,0 +1,67 @@
+*
+{
+	font-family: Verdana;
+	background: url("tn_diamonds.jpg") bottom right fixed no-repeat;
+	background-color : black;
+	background-attachment: fixed;
+}
+
+h1
+{
+	font-size: x-large;
+	color: white;
+}
+
+h2, h3, h4, h5
+{
+	font-size: medium;
+	color: white;
+}
+
+
+p
+{
+	font-size: small;
+	color: white;
+	text-align: justify;
+	width: 350px;
+	padding: 12px;
+	margin-bottom: 20px;
+	border: 1px solid white;
+}
+
+ol, ul , em, strong, mark
+{
+	font-size: small;
+	color: white;
+}
+.imageflottante
+{
+    float: left;
+
+}
+.dessous
+{
+	clear: both;
+}
+a
+{
+	font-size: small;
+	text-decoration: none;
+	color: #46fff4;
+}
+a:hover
+{
+	color: #FBFBE8;
+	text-decoration: bold;
+}
+a:active /* Quand le visiteur clique sur le lien */
+{
+    color: #AAFBE8;
+}
+
+nav
+{
+	width: 800px;
+	margin: auto;
+}
